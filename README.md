@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niyazbekk
 - 👀 I’m interested in WEB developing
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JavaScript and Java
 - 💞️ I’m looking to collaborate on GOOGLE
 - 📫 How to reach me : Via gmail
 
